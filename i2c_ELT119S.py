@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #       filename: i2c_ELT119S.py
 #       desc: i2c demonstration for ELT119S Display
+#       requirements for i2c operation must be completed before running this
 
 from smbus import SMBus
 import time
